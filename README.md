@@ -504,6 +504,40 @@ Dagger 入门
 
 [https://www.bilibili.com/video/av27087520](https://www.bilibili.com/video/av27087520)
 
+# 20180713 推荐阅读
+
+### The State of Kotlin
+
+已经有超过六成的开发者用过 Kotlin 了，大家抓紧时间学习 Kotlin 啦
+
+[https://pusher.com/state-of-kotlin](https://pusher.com/state-of-kotlin)
+
+### Android 自动化页面测速在美团的实践
+
+美团出了一套无业务代码入侵的自动化页面测速插件
+
+[https://mp.weixin.qq.com/s/purpCZtjomvSFcjOMZuQpg](https://mp.weixin.qq.com/s/purpCZtjomvSFcjOMZuQpg)
+
+### Understanding Compilers For Humans
+
+理解编译器，还记得编译原理吗
+
+[https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
+](https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
+)
+### vjtools
+
+唯品会也出了一个 Java 规范
+
+[https://github.com/vipshop/vjtools](https://github.com/vipshop/vjtools)
+
+### 小米开源项目盘点
+
+[https://mp.weixin.qq.com/s/mx4Iu4ZFo2rSFyGfffMrJQ](https://mp.weixin.qq.com/s/mx4Iu4ZFo2rSFyGfffMrJQ)
+
+### Kara Swisher 采访扎克伯格的记录
+
+[https://www.recode.net/2018/3/22/17150814/transcript-interview-facebook-mark-zuckerberg-cambridge-analytica-controversy](https://www.recode.net/2018/3/22/17150814/transcript-interview-facebook-mark-zuckerberg-cambridge-analytica-controversy)
 
 # 20180706 推荐阅读
 
